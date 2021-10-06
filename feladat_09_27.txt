@@ -1,0 +1,18 @@
+1) Olvassunk be egy nem negatív egész számot, valakinek az életkorát! Kortól függĘen írjuk ki a
+megfelelĘ szöveget:
+ 0 – 13 évig: Gyermek
+14 – 17 évig: Fiatalkorú
+18 – 23 évig: Ifjú
+24 – 59 évig: FelnĘtt
+60 évtől idős
+
+
+2) Krumpli
+Egy cserkésztáborban készül a vacsora, de a konyhafĘnök nem tudja, mennyi krumplit vegyen.
+A fejadagot ismeri az 0,4 kg, de a szükséges mennyiséget számítógép segítségével szeretné
+kiszámolni az aktuális létszámtól függĘen. Írjuk meg a programot a konyhafĘnöknek! A
+program kérje be a létszámot, majd írja ki a szükséges mennyiséget a következĘképpen:
+Létszám? 20.
+
+
+3)
