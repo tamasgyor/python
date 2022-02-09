@@ -1,0 +1,16 @@
+"""
+#Eldöntés - t = [ 3, 8, 2, 4, 5, 1, 6]
+t = [ 3, 8, 2, 4, 5, 1, 6]
+n = len(t)
+#ker = int(input('Kérem adja meg a keresett számot')
+ker = 5
+ 
+i = 0
+while i < n and t[i] != ker:
+    i = i + 1
+    #i+=1
+ 
+if i<n:
+    print("Van ilyen: ", ker)
+else:
+    print("Nincs ilyen elem: ", ker)

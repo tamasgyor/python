@@ -1,0 +1,5 @@
+ Össztömeg:62,
+Az átlag:10.333333333333334,
+Ennyi 5kg-os van:1,
+legnagyobb:20,
+legkisebb:2
